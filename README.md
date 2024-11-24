@@ -20,9 +20,9 @@ Este repositório contém o projeto desenvolvido no âmbito da unidade curricula
 - Comparação das dinâmicas dos mercados imobiliários de Washington e Califórnia, com insights valiosos para apoio à decisão.
 
 ## 🧩 Como Utilizar
-1. Faça o download do ficheiro Power BI (`Apresentação_DM2324_Lucas_Joana_Lara.pbix`).
+1. Faça o download do ficheiro Power BI (`Dashboard_Mercado_Imobiliario.pbix`).
 2. Abra o ficheiro no Power BI Desktop para explorar os dashboards interativos.
-3. Consulte o relatório PDF (`DM2324_Análise_Mercado_Imobiliário.pdf`) para informações detalhadas sobre o projeto.
+3. Consulte o relatório PDF (`Relatorio_Mercado_Imobiliario.pdf`) para informações detalhadas sobre o projeto.
 
 ## 📜 Licença
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
